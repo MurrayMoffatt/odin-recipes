@@ -1,1 +1,1 @@
-Basic recipe website.
+Very basic recipe website that just uses simple HTML and no CSS.
