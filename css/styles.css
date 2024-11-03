@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h2 {
+  color: #FF6600;
+}
+
+h1 {
+  text-align: center;
+}
+
+.recipe-img {
+  text-align: center;
+}
+
+.back-link {
+  text-align: center;
+}
