@@ -1,4 +1,9 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
+  margin: 20px 10px;
   font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -8,6 +13,29 @@ h1, h2 {
 
 h1 {
   text-align: center;
+}
+
+.recipe-menu {
+  text-align: center;
+}
+
+.recipe-menu ul {
+  list-style: none;
+  margin: auto;
+  padding: 0;
+  display: inline-block;
+}
+
+.recipe-menu ul li {
+  padding: 10px 20px;
+  background-color: #FF6600;
+  color: #FFFFFF;
+  margin: 5px 0;
+}
+
+.recipe-menu ul li a {
+  color: #FFFFFF;
+  text-decoration: none;
 }
 
 .recipe-img {
